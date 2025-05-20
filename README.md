@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi 👋 My name is Egor
+Hi there 👋 My name is Egor
 =====================
 
 Python developer
