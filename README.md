@@ -5,7 +5,7 @@ Python developer
 ----------------
 
 * 🖥️  See my portfolio at [hh-resume](http://ramenskoe.hh.ru/resume/2bfd8d54ff0e5b2d7e0039ed1f7a4f6346444e)
-* ✉️  You can contact me at [grudinin@my.com](mailto:grudinin@my.com) or telegram: [@ttehasi](htps:/t.me/ttehasi)
+* ✉️  You can contact me at [grudinin@my.com](mailto:grudinin@my.com) or telegram: [@ttehasi](https:/t.me/ttehasi)
 
 ### Skills
 
